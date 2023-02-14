@@ -1,0 +1,48 @@
+body {
+  font-family: "Rubik", sans-serif;
+}
+
+.btn-master, .btn-secondary, .btn-primary {
+  padding: 15px 26px 15px 26px;
+  border-radius: 10px;
+  font-weight: 600;
+  border: 0;
+}
+
+.btn-primary {
+  color: #FFFFFF;
+  background: #563AD6;
+}
+
+.btn-secondary {
+  color: #777790;
+  background: #EAEAF4;
+}
+
+.sales .copywriting .header {
+  font-weight: 600;
+  color: #02044A;
+  font-size: 46px;
+  line-height: 60px;
+}
+.sales .copywriting .description {
+  font-weight: 400;
+  color: #9B9CB7;
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.navbar-tp {
+  padding-top: 30px;
+}
+.navbar-tp .navbar-nav li {
+  padding-left: 50px;
+}
+.navbar-tp .navbar-nav .active {
+  color: #563AD6 !important;
+  font-weight: 500 !important;
+}
+.navbar-tp .navbar-nav .nav-link {
+  color: #02044A;
+  font-weight: 400;
+}/*# sourceMappingURL=main.css.map */
